@@ -28,7 +28,16 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "src/vendor/bootstrap/css/bootstrap.min.css",
+              "src/fonts/font-awesome-4.7.0/css/font-awesome.min.css",
+              "src/fonts/Linearicons-Free-v1.0.0/icon-font.min.css",
+              "src/vendor/animate/animate.css",
+              "src/vendor/css-hamburgers/hamburgers.min.css",
+              "src/vendor/select2/select2.min.css",
+              "src/css/util.css",
+              "src/css/main.css",
+              "node_modules/ngx-toastr/toastr.css"
             ],
             "scripts": []
           },
